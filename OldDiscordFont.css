@@ -1,0 +1,18 @@
+/**
+ * @name Old discord font
+ * @author That Canadian Kid#2625
+ * @version 1.0.0
+ * @description Bring back the old discord font we've grown to know and love
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @authorId 174868361040232448
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @website https://gibbu.me/
+*/
+/* Imports old discord fonr */
+
+@import url('https://fonts.cdnfonts.com/css/whitney-2');
+:root {
+  /* Applies said font */
+  --font: 'Whitney';
+}
